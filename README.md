@@ -4,7 +4,7 @@
 
 - <b>Hybrid Mobile App Development</b>
   - [Stock Inventory Management System App](https://drive.google.com/file/d/1-r8OxWmcxvlo6yEv2bcd8f7imqkNsfmi/view?usp=share_link)
-- <b>Full Stack Web App (</b>
+- <b>Full Stack Web App</b>
   - [Loan Apply and Management System (Java)](https://github.com/see000/LoanApplyAndManagementWebsite)
 - <b>Front End Development</b>
   - [McdDonald's Based Webpage](https://github.com/see000/McDonalsBasedWebsite)
