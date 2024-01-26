@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+## Flutter Projects
+
+## Other Front End Project
+
 - <b>Hybrid Mobile App Development</b>
   - [Stock Inventory Management System App](https://drive.google.com/file/d/1-r8OxWmcxvlo6yEv2bcd8f7imqkNsfmi/view?usp=share_link)
 - <b>Full Stack Web App</b>
