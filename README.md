@@ -3,10 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 ## Flutter Projects
-[Weather Application]https://github.com/see000/weatherApplication
-- <b>Favourite Contact List</b>
+[Weather Application](https://github.com/see000/weatherApplication)
 [Contact App With Clean Architecture + Hive](https://github.com/see000/fav_contact_list--Clean-Architecture---Hive--)
-- <b>Insight My</b>
 [Malaysia News Application](https://github.com/see000/news_clean)
 
 
