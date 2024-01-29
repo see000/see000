@@ -4,11 +4,11 @@
 
 ## Flutter Projects
 - <b>Weather Application</b>
-  -[Weather Application](https://github.com/see000/weatherApplication)
+  - [Weather Application](https://github.com/see000/weatherApplication)
 - <b>Contact Application</b>
-  -[Contact App With Clean Architecture + Hive](https://github.com/see000/fav_contact_list--Clean-Architecture---Hive--)
+  - [Contact App With Clean Architecture + Hive](https://github.com/see000/fav_contact_list--Clean-Architecture---Hive--)
 - <b>News Application</b>
-  -[Malaysia News Application](https://github.com/see000/news_clean)
+  - [Malaysia News Application](https://github.com/see000/news_clean)
 
 
 ## Other Front End Project
